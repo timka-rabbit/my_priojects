@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\PointClass\bin\Debug\PointClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\PointClass\bin\Debug\PointClass.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\PointClass\obj\Debug\PointClass.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\PointClass\obj\Debug\PointClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\PointClass\obj\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\PointClass\bin\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\PointClass\bin\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\PointClass\obj\Debug\PointClass.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\PointClass\obj\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\PointClass\obj\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\bin\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\bin\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\obj\Debug\PointClass.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\obj\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\obj\Debug\PointClass.pdb

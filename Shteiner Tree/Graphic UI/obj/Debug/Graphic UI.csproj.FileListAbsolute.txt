@@ -1,0 +1,51 @@
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\Graphic UI.exe.config
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\Graphic UI.exe
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\Graphic UI.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\AlgorithmClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\MathClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\PointClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\ShteinerTree.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\AlgorithmClass.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\MathClass.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\PointClass.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\bin\Debug\ShteinerTree.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\obj\Debug\Graphic UI.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\obj\Debug\Graphic_UI.Form1.resources
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\obj\Debug\Graphic_UI.Properties.Resources.resources
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\obj\Debug\Graphic UI.csproj.GenerateResource.Cache
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\obj\Debug\Graphic UI.exe
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\Graphic UI\obj\Debug\Graphic UI.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\Graphic UI.exe.config
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\obj\Debug\Graphic UI.exe
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\obj\Debug\Graphic UI.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\Graphic UI.exe
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\Graphic UI.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\AlgorithmClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\ShteinerTree.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\AlgorithmClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\bin\Debug\ShteinerTree.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\obj\Debug\Graphic UI.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\obj\Debug\Graphic_UI.Form1.resources
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\obj\Debug\Graphic_UI.Properties.Resources.resources
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\Graphic UI\obj\Debug\Graphic UI.csproj.GenerateResource.Cache
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\Graphic UI.exe.config
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Debug\Graphic UI.exe
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Debug\Graphic UI.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\Graphic UI.exe
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\Graphic UI.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\AlgorithmClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\ShteinerTree.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\AlgorithmClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Debug\ShteinerTree.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Debug\Graphic UI.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Debug\Graphic_UI.Form1.resources
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Debug\Graphic_UI.Properties.Resources.resources
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Debug\Graphic UI.csproj.GenerateResource.Cache

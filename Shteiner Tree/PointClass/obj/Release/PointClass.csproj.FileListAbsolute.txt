@@ -1,0 +1,4 @@
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\bin\Release\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\bin\Release\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\obj\Release\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\obj\Release\PointClass.pdb

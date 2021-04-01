@@ -1,0 +1,25 @@
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\obj\Debug\StopperLength.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\obj\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\obj\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\LengthCurve\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\LengthCurve\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\LengthCurve\obj\Debug\StopperLength.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\LengthCurve\obj\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\LengthCurve\obj\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\LengthCurve\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\LengthCurve\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\LengthCurve\obj\Debug\StopperLength.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\LengthCurve\obj\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\LengthCurve\obj\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\obj\Debug\StopperLength.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\obj\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\obj\Debug\LengthCurve.pdb
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\bin\Debug\LengthCurve.dll
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\bin\Debug\LengthCurve.pdb
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\obj\Debug\StopperLength.csprojResolveAssemblyReference.cache
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\obj\Debug\LengthCurve.dll
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\LengthCurve\obj\Debug\LengthCurve.pdb

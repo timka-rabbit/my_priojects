@@ -1,0 +1,10 @@
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\LengthCurve\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\LengthCurve\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\LengthCurve\obj\Debug\ComparatorLength.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\LengthCurve\obj\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\LengthCurve\obj\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\obj\Debug\ComparatorLength.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\obj\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\LengthCurve\obj\Debug\LengthCurve.pdb

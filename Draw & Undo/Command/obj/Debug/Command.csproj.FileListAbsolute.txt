@@ -1,0 +1,10 @@
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Command\bin\Debug\Command.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Command\bin\Debug\Command.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Command\obj\Debug\Command.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Command\obj\Debug\Command.pdb
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Command\bin\Debug\Command.dll
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Command\bin\Debug\Command.pdb
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Command\obj\Debug\Command.dll
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Command\obj\Debug\Command.pdb

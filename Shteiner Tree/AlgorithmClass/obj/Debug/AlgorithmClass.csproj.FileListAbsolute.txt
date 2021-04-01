@@ -1,0 +1,27 @@
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\AlgorithmClass\bin\Debug\AlgorithmClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\AlgorithmClass\bin\Debug\AlgorithmClass.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\AlgorithmClass\bin\Debug\MathClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\AlgorithmClass\bin\Debug\PointClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\AlgorithmClass\bin\Debug\MathClass.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\AlgorithmClass\bin\Debug\PointClass.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\AlgorithmClass\obj\Debug\AlgorithmClass.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\AlgorithmClass\obj\Debug\AlgorithmClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\AlgorithmClass\obj\Debug\AlgorithmClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\AlgorithmClass\bin\Debug\AlgorithmClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\AlgorithmClass\bin\Debug\AlgorithmClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\AlgorithmClass\bin\Debug\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\AlgorithmClass\bin\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\AlgorithmClass\bin\Debug\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\AlgorithmClass\bin\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\AlgorithmClass\obj\Debug\AlgorithmClass.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\AlgorithmClass\obj\Debug\AlgorithmClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\AlgorithmClass\obj\Debug\AlgorithmClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\AlgorithmClass\obj\Debug\AlgorithmClass.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\AlgorithmClass\obj\Debug\AlgorithmClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\AlgorithmClass\bin\Debug\AlgorithmClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\AlgorithmClass\bin\Debug\AlgorithmClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\AlgorithmClass\bin\Debug\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\AlgorithmClass\bin\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\AlgorithmClass\bin\Debug\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\AlgorithmClass\bin\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\AlgorithmClass\obj\Debug\AlgorithmClass.pdb

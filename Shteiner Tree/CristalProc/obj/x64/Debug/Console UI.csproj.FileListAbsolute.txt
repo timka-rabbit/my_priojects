@@ -1,0 +1,14 @@
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\CristalProc.exe.config
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\CristalProc.exe
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\CristalProc.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\AlgorithmClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\ShteinerTree.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\AlgorithmClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\bin\x64\Debug\ShteinerTree.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\obj\x64\Debug\Console UI.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\obj\x64\Debug\CristalProc.exe
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\CristalProc\obj\x64\Debug\CristalProc.pdb

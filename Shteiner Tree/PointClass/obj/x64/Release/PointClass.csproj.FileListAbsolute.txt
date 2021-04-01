@@ -1,0 +1,14 @@
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\bin\x64\Release\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\bin\x64\Release\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\obj\x64\Release\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\PointClass\obj\x64\Release\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\3. Муравьиный алгоритм\PointClass\bin\x64\Release\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\3. Муравьиный алгоритм\PointClass\bin\x64\Release\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\3. Муравьиный алгоритм\PointClass\obj\x64\Release\PointClass.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\3. Муравьиный алгоритм\PointClass\obj\x64\Release\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\3. Муравьиный алгоритм\PointClass\obj\x64\Release\PointClass.pdb
+K:\Моя папка\Программы\Для собеседования\my_priojects\Shteiner Tree\PointClass\bin\x64\Release\PointClass.dll
+K:\Моя папка\Программы\Для собеседования\my_priojects\Shteiner Tree\PointClass\bin\x64\Release\PointClass.pdb
+K:\Моя папка\Программы\Для собеседования\my_priojects\Shteiner Tree\PointClass\obj\x64\Release\PointClass.csprojResolveAssemblyReference.cache
+K:\Моя папка\Программы\Для собеседования\my_priojects\Shteiner Tree\PointClass\obj\x64\Release\PointClass.dll
+K:\Моя папка\Программы\Для собеседования\my_priojects\Shteiner Tree\PointClass\obj\x64\Release\PointClass.pdb

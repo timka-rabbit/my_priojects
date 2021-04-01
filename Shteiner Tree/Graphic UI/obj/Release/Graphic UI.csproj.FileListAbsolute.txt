@@ -1,0 +1,17 @@
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\Graphic UI.exe.config
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\Graphic UI.exe
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\Graphic UI.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\AlgorithmClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\ShteinerTree.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\AlgorithmClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\bin\Release\ShteinerTree.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Release\Graphic UI.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Release\Graphic_UI.Form1.resources
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Release\Graphic_UI.Properties.Resources.resources
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Release\Graphic UI.csproj.GenerateResource.Cache
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Release\Graphic UI.exe
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\Graphic UI\obj\Release\Graphic UI.pdb

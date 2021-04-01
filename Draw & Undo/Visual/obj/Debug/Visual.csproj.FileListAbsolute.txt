@@ -1,0 +1,75 @@
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\3. Arrow & Dotted Line\Visual\bin\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\3. Arrow & Dotted Line\Visual\bin\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\3. Arrow & Dotted Line\Visual\bin\Debug\Drawer.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\3. Arrow & Dotted Line\Visual\bin\Debug\Geometry.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\3. Arrow & Dotted Line\Visual\bin\Debug\Drawer.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\3. Arrow & Dotted Line\Visual\bin\Debug\Geometry.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\3. Arrow & Dotted Line\Visual\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\3. Arrow & Dotted Line\Visual\obj\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\3. Arrow & Dotted Line\Visual\obj\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\bin\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\bin\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\bin\Debug\Drawer.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\bin\Debug\Geometry.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\bin\Debug\Drawer.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\bin\Debug\Geometry.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\obj\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4 Length Curve\Visual\obj\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\bin\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\bin\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\bin\Debug\Drawer.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\bin\Debug\Geometry.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\bin\Debug\Drawer.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\bin\Debug\Geometry.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\obj\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\4. Length Curve\Visual\obj\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\bin\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\bin\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\bin\Debug\Drawer.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\bin\Debug\Geometry.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\bin\Debug\Drawer.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\bin\Debug\Geometry.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\obj\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\5. Decorator\Visual\obj\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\bin\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\bin\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\bin\Debug\Drawer.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\bin\Debug\Geometry.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\bin\Debug\Drawer.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\bin\Debug\Geometry.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\obj\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\6. Composite\Visual\obj\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Visual.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Drawer.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Geometry.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\LengthCurve.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Drawer.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Geometry.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\LengthCurve.pdb
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\obj\Debug\Visual.dll
+C:\Users\arbuy\Desktop\IV КУРС\Шаблоны проектирования\7. Command\Visual\obj\Debug\Visual.pdb
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Visual.dll
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Visual.pdb
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Drawer.dll
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Geometry.dll
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\LengthCurve.dll
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Drawer.pdb
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\Geometry.pdb
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\bin\Debug\LengthCurve.pdb
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\obj\Debug\Visual.csprojResolveAssemblyReference.cache
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\obj\Debug\Visual.dll
+K:\Моя папка\IV КУРС\Шаблоны проектирования\7. Command\Visual\obj\Debug\Visual.pdb

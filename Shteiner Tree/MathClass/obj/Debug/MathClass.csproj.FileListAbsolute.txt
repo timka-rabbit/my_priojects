@@ -1,0 +1,21 @@
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\MathClass\bin\Debug\MathClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\MathClass\bin\Debug\MathClass.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\MathClass\bin\Debug\PointClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\MathClass\bin\Debug\PointClass.pdb
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\MathClass\obj\Debug\MathClass.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\MathClass\obj\Debug\MathClass.dll
+C:\Users\Anna\Desktop\Папка Артёма\CristalProc\MathClass\obj\Debug\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\MathClass\bin\Debug\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\MathClass\bin\Debug\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\MathClass\bin\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\MathClass\bin\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\MathClass\obj\Debug\MathClass.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\MathClass\obj\Debug\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\CristalProc\MathClass\obj\Debug\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\MathClass\bin\Debug\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\MathClass\bin\Debug\MathClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\MathClass\bin\Debug\PointClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\MathClass\bin\Debug\PointClass.pdb
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\MathClass\obj\Debug\MathClass.csprojResolveAssemblyReference.cache
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\MathClass\obj\Debug\MathClass.dll
+K:\Моя папка\I КУРС Магистра\Курсовая\2. CristalProc\MathClass\obj\Debug\MathClass.pdb
